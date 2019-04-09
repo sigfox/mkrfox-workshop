@@ -26,7 +26,7 @@ void setup() {
   Serial.print("PAC\t");
   Serial.println(SigFox.PAC());
 
-  Serial.println("Register your board on https://backend.sigfox.com/activate/arduino");
+  Serial.println("Register your board on https://buy.sigfox.com/activate");
 }
 
 void loop()
